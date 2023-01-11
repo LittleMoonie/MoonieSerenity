@@ -1,16 +1,15 @@
-### Hi there 👋
+# About-Me
+🌑 @MoonieSerenity 🌔
+- ✉️ Discord : 𝗠𝗼𝗼𝗻𝗹𝗶𝗴𝗵𝘁#0001 📩
+- 🌟Your friendly Moon enthusiast🌙
+- 🌿 Down for collabs as a learner 🍃
 
-<!--
-**MoonieSerenity/MoonieSerenity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently Learning : 
+* 🔥 Python               
+* 💖 Javascript                  
+* 🍃 Java
+* 🚽 HTML & CSS
+* 🪠 C++
+* 🪫 C#
+* 🚮 MySQL
