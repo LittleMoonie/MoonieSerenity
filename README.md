@@ -1,6 +1,6 @@
 # About-Me
 🌑 @LittleMoonie 🌔
-- ✉️ Discord : 𝗠𝗼𝗼𝗻𝗹𝗶𝗴𝗵𝘁#0001 📩
+- ✉️ Discord : Little Moonie0001 📩
 - 🌟Your friendly Moon enthusiast🌙
 - 🌿 Down for collabs as a learner 🍃
 
