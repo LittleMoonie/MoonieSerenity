@@ -10,11 +10,12 @@ I'm a dedicated developer who loves to dive deep into code and bring ideas to li
 
 - **Programming Languages**:
   - 🌟 **C#**
+  - ⌨️ **TypeScript**
   - ☕ **Java**
   - 🌐 **JavaScript**
   - 🐍 **Python**
 - **Web Development**:
-  - 💻 **React.tsx**
+  - 💻 **React**
   - 📝 **HTML5 & CSS3**
 - **Database Management**:
   - 💾 **SQL**
