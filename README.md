@@ -26,6 +26,10 @@ I'm a dedicated developer who loves to dive deep into code and bring ideas to li
   - 🐙 **Git & GitHub**
   - 🎮 **Unity**
 
+## Portfolio Website
+- **Link**: [lazaroportfolio.com](https://lazaroportfolio.com)
+- **Technologies Used**: HTML5, CSS3, TypeScript, React.tsx, GSAP
+
 ## Let's Collaborate 🌿
 
 I'm eager to collaborate on interesting projects and expand my knowledge. If you have an idea or just want to chat about programming, technology, or anything else, feel free to contact me on Discord at `littlemoonie`. Let's learn and create together! 🍃
