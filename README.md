@@ -8,7 +8,7 @@
 
 <br clear="both">
 
-<p align="left">Hello! I'm @LittleMoonie, a passionate software developer with a keen interest in creating innovative solutions and exploring new technologies. <br>My journey in programming has been fueled by curiosity and a desire to continuously improve my skills.<br><br>🔭 I’m currently working on: Aurora<br>🌱 I’m currently learning: React, TypeScript, C# & Possibly soon to come - Rust<br>📫 How to reach me: Discord or LinkedIn<br>⚡ Fun fact: If Earth were the size of a nickel, the Moon would be about as big as a coffee bean</p>
+<p align="left">Hello! I'm @LittleMoonie, a passionate software developer with a keen interest in creating innovative solutions and exploring new technologies. <br>My journey in programming has been fueled by curiosity and a desire to continuously improve my skills.<br><br>🔭 I’m currently working on: <a href="https://github.com/LittleMoonie/AuroraPublic">Aurora</a><br>🌱 I’m currently learning: React, TypeScript, C# & Possibly soon to come - Rust<br>📫 How to reach me: Discord or LinkedIn<br>⚡ Fun fact: If Earth were the size of a nickel, the Moon would be about as big as a coffee bean</p>
 
 ###
 
@@ -95,7 +95,7 @@
 
 ###
 
-<p align="left">Aurora:  A Social Media app focused on content creators & their communities<br><br>Portfolio: My Portfolio with my resume</p>
+<p align="left"><a href="https://github.com/LittleMoonie/AuroraPublic">Aurora</a>:  A Social Media app focused on content creators & their communities.<br><br><a href="https://lazaroportfolio.com">Portfolio</a>: My Portfolio with my resume. You'll get to know me a lot more over there!</p>
 
 ###
 
